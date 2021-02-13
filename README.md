@@ -8,4 +8,4 @@
 
 - 📫I’m looking for a computer science related internship. 
 
-- :wave: Feel free to reach me at [Linkedin](https://www.linkedin.com/in/marrf) 
+- :wave: Know me better at [Linkedin](https://www.linkedin.com/in/marrf) 
