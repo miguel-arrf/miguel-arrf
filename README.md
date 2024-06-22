@@ -3,7 +3,7 @@
 ---
 
 - 📫 I am currently working as a **Product Engineer at Unbabel**, working primarily on the Halo project, as a Full-Stack + iOS engineer, I'm one of the 3 engineers in the technical founding team.
-  - We've been featured on the Web Summit main center stage and at the United Nations AI for Good Global Summit. We've recently announced a partnership with **OpenAI**.
+  - We've been on the Web Summit main center stage and at the United Nations AI for Good Global Summit. We've recently announced a partnership with **OpenAI**.
 
 - I won, twice, the **Apple Swift Student Challenge Award**.
 - :mortar_board: I have a Master's in Computer Science and Engineering from Instituto Superior Técnico (I did a master's thesis in Computer Vision), and a Bachelor's in Computer Science from Iscte University. Yes, I'm a geek :computer:.
