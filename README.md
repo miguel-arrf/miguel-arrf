@@ -2,12 +2,15 @@
 
 ---
 
-- :mortar_board: I've just finished my bachelor's in Computer Science at Iscte University and I'm **starting a Master's in Computer Science at Instituto Superior Técnico** University. Yes, I'm a geek :computer:.
+- 📫 I am currently working as a **Product Engineer at Unbabel**, working primarily on the Halo project, as a Full-Stack + iOS engineer, I'm one of the 3 engineers in the technical founding team.
+  - We've been featured on the Web Summit main center stage and at the United Nations AI for Good Global Summit. We've recently announced a partnership with **OpenAI**.
 
-- 📚 I have a big passion for **Maths** and **Machine Learning**, I'm currently working on some cool projects, but don't tell anyone, shh :sweat_smile:.
+- I won, twice, the **Apple Swift Student Challenge Award**.
+- :mortar_board: I have a Master's in Computer Science and Engineering from Instituto Superior Técnico (I did a master's thesis in Computer Vision), and a Bachelor's in Computer Science from Iscte University. Yes, I'm a geek :computer:.
+- 📚 I have a big passion for **Design** and **Delightful Interactions**, I'm currently working on some cool projects!
+- I did a Frontend Summer Internship at Unbabel and also worked as an AI summer intern at EDP.
 
-- 📫 I am currently working as a **summer intern at EDP**, building a toolkit to detect and mitigate bias in artificial intelligence models, enabling the company's ethical plan. 
+---
+- :wave: My [Linkedin](https://www.linkedin.com/in/marrf) .
 
-- :wave: Know me better at [Linkedin](https://www.linkedin.com/in/marrf) .
-
-- 💻 Oh, and have a look at my [website](https://www.miguelferreira.tech)!
+- 💻 My [website](https://beta.miguelferreira.tech/)!
