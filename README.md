@@ -2,7 +2,7 @@
 
 ---
 
-- 📫 I am currently working as a **Product Engineer at Unbabel**, working primarily on the Halo project, as a Full-Stack + iOS engineer, I'm one of the 3 engineers in the technical founding team.
+- 📫 I am currently working as a **Tech Lead at Halo, a Unbabel project**, doing Full-Stack + iOS engineer. I'm one of the 3 engineers in the technical founding team.
   - We've been on the Web Summit main center stage and at the United Nations AI for Good Global Summit. We've recently announced a partnership with **OpenAI**.
 
 - I won, twice, the **Apple Swift Student Challenge Award**.
@@ -13,4 +13,4 @@
 ---
 - :wave: My [Linkedin](https://www.linkedin.com/in/marrf) .
 
-- 💻 My [website](https://beta.miguelferreira.tech/)!
+- 💻 My [website](https://miguelferreira.tech/)!
