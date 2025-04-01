@@ -1,8 +1,9 @@
-<h3 align="center">What are you doing here? You must be cool! I'm Miguel, nice to meet you! :star_struck:</h3>
+<h3 align="left">I'm a Founding Engineer at Usawa Care, building the future of health tech.</h3>
 
----
 
-- 📫 I am currently working as a **Tech Lead at Halo, a Unbabel project**, doing Full-Stack + iOS engineer. I'm one of the 3 engineers in the technical founding team.
+
+Cool stuff but clearly not as exciting as Usawa Care:
+- On a previous life (a few months ago) I was a Tech Lead at Halo, a Unbabel project, doing Full-Stack + iOS engineer.
   - We've been on the Web Summit main center stage and at the United Nations AI for Good Global Summit. We've recently announced a partnership with **OpenAI**.
 
 - I won, twice, the **Apple Swift Student Challenge Award**.
@@ -11,6 +12,7 @@
 - I did a Frontend Summer Internship at Unbabel and also worked as an AI summer intern at EDP.
 
 ---
-- :wave: My [Linkedin](https://www.linkedin.com/in/marrf) .
+- :wave: [Linkedin](https://www.linkedin.com/in/marrf) .
 
-- 💻 My [website](https://miguelferreira.tech/)!
+- 💻 [Website](https://miguelferreira.tech/)!
+
